@@ -1,0 +1,7 @@
+openai
+yfinance
+pandas
+pandas-ta
+python-docx
+rich
+python-dotenv
